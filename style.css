@@ -1,56 +1,5 @@
  
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700');
 
-@import url('../fonts/gilroy/fonts.css');
- 
-@import url('../vendor/bootstrap/css/bootstrap.min.css');
- 
-@import url('framework.css');
- 
-@import url('../vendor/mega-menu/assets/css/menu.css');
- 
-@import url('../fonts/font-awesome/css/font-awesome.min.css');
- 
-@import url('../vendor/cubeportfolio/css/cubeportfolio.min.css');
- 
-@import url('../vendor/owl-carousel/owl.carousel.css');
-
-@import url('../vendor/owl-carousel/owl.theme.css');
-
-@import url('../vendor/owl-carousel/animate.css');
- 
-@import url('../vendor/aos-next/dist/aos.css');
- 
-@import url('../vendor/fancybox/dist/jquery.fancybox.min.css');
- 
-@import url('../vendor/sanzzy-map/dist/snazzy-info-window.min.css');
- 
-@import url('../fonts/icon/font/flaticon.css');
- 
-@import url('custom-animation.css');
- 
-@import url('../vendor/animated-headline-master/style.css');
- 
-@import url('../vendor/iziModal-master/iziModal.css');
- 
-@import url('../vendor/jquery-ui/jquery-ui.min.css');
- 
-@import url('../vendor/selectize.js/selectize.css');
- 
-@import url('../vendor/tabs/tabs.css');
-
-@import url('shortcode-style.css');
-
-@font-face {
-  font-family: 'font-awesome';
-  src: url('../fonts/font-awesome/fonts/fontawesome-webfont.ttf');
-  src: url('../fonts/font-awesome/fonts/fontawesome-webfont.eot'), /* IE9 Compat Modes */
-       url('../fonts/font-awesome/fonts/fontawesome-webfont.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../fonts/font-awesome/fonts/fontawesome-webfont.woff') format('woff'), /* Pretty Modern Browsers */
-       url('../fonts/font-awesome/fonts/fontawesome-webfont.svg') format('svg'); /* Legacy iOS */
-}
- 
- 
 ::-webkit-scrollbar{ width: 5px; }
 ::-webkit-scrollbar-track { background: #fff;}
 ::-webkit-scrollbar-thumb { background: var(--rose-gr-bg);border-radius: 30px;}
